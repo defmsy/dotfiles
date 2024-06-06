@@ -1,0 +1,7 @@
+- src: config/nvim
+  dest: .config/nvim
+- src: tmux.conf
+  dest: .tmux.conf
+- src: wezterm.lua
+  dest: .wezterm.lua
+
